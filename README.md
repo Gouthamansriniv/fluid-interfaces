@@ -1,6 +1,6 @@
 <p align="center"><img src="Resources/repo-banner.png" alt="Fluid Interfaces Title Graphic"></p>
 
-### ⏩ Check out the accompanying blog post for more details: [Building Fluid Interfaces]() ⏪
+### Check out the accompanying blog post for more details: [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5)
 
 ⭐️ If you found this repo helpful, please star it. Thanks! ⭐️
 
@@ -92,7 +92,7 @@ A drawer with an open and closed state which has bounciness dependent on the vel
 
 <img src="Resources/momentumdemo.gif" alt="Rewarding Momentum Demo">
 
-[⚙️ Mommentum.swift](FluidInterfaces/FluidInterfaces/Momentum.swift)
+[⚙️ Momentum.swift](FluidInterfaces/FluidInterfaces/Momentum.swift)
 
 [📺 Designing Fluid Interfaces 36:48](https://developer.apple.com/videos/play/wwdc2018/803/?time=2208)
 
@@ -119,5 +119,8 @@ A demo showing how the concepts from the PiP interface can apply to other animat
 ## Author
 You can find me on Twitter [@nathangitter](https://twitter.com/nathangitter)
 
-## Copyright
-© 2018 Nathan Gitter
+## Contributing
+Feel free to add issues or pull requests here on GitHub. I cannot guarantee that I will accept your changes, but feel free to fork the repo and make changes as you see fit. Thanks!
+
+## License & Copyright
+© 2018 Nathan Gitter, licensed under Apache-2.0. See LICENSE for more information.
